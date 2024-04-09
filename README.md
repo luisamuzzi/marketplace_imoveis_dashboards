@@ -76,7 +76,7 @@ O relatório pode ser visualizado por meio do link: [Relatório - Análise da di
 
 1. A taxa de disponibilidade dos imóveis da base de dados indica que um total de mais de 30% dos imóveis se encontra indisponível. Alguns desses imóveis se encontram indisponíveis há anos. No entanto, a taxa de disponibilidade anual demonstrou crescimento; em 2019, havia pouco mais de 10% de imóveis indisponíveis naquele ano.
 2. O mês de junho (verão e férias escolares nos Estados Unidos) é o mês onde a maior quantidade de imóveis recebeu sua última avaliação registrada.
-3. Estima-se uma margem entre aproximadamente 8,42 e 273,61 milhões de dólares em potencial de receita bruta que não está sendo angariado devido à indisponibilidade  de imóveis. Isso significa um aumento potencial na receita entre 31 a 39%.
+3. Estima-se uma margem entre aproximadamente 8,42 e 273,61 milhões de dólares em potencial de receita bruta que não está sendo angariado devido à indisponibilidade  de imóveis. Isso significa um aumento potencial na receita entre 31 e 39%.
 
 ### 6. Conclusão
 
