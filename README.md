@@ -9,13 +9,13 @@ Análise dos dados do Airbnb de Nova Yorque com foco em avaliação da disponibi
 Leia mais sobre o projeto abaixo.
 
 ### Índice
-1. [Problema de negócio]([#-problema-de-negócio])
-2. [Premissas assumidas para a análise]([#-premissas-assumidas-para-a-análise])
-3. [Estratégias de solução](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#3-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
-4. [O produto final do projeto]([#-o-produto-final-do-projeto])
-5. [Principais insights de dados]([#-principais-insights-de-dados])
-6. [Conclusão](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#6-conclus%C3%A3o)
-7. [Próximos passos](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#7-pr%C3%B3ximos-passos)
+* [1. Problema de negócio](https://github.com/luisamuzzi/marketplace_imoveis_dashboards?tab=readme-ov-file#1-problema-de-neg%C3%B3cio)
+* [2. Premissas assumidas para a análise](https://github.com/luisamuzzi/marketplace_imoveis_dashboards?tab=readme-ov-file#2-premissas-assumidas-para-a-an%C3%A1lise)
+* [3. Estratégias de solução](#)
+* [4. O produto final do projeto](#)
+* [5. Principais insights de dados](#)
+* [6. Conclusão](#)
+* [7. Próximos passos](#)
 
 ### 1. Problema de negócio
 
