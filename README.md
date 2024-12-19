@@ -6,6 +6,8 @@ Análise dos dados do Airbnb de Nova Yorque com foco em avaliação da disponibi
 
 [Relatório - Análise da disponibilidade de imóveis e potencial de receita](https://app.powerbi.com/view?r=eyJrIjoiNjYxMTE4ZDctOTNmZC00MWU0LWI0MjItZjVlNGE5ZjIzMzM5IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSectiond2b2e8909b25e91c4067).
 
+[Texto no Medium sobre minha experiência realizando este projeto](https://medium.com/@luisamuzzi/desenvolvendo-um-projeto-de-dataviz-com-o-power-bi-minha-experi%C3%AAncia-8309f2b14f9c)
+
 Leia mais sobre o projeto abaixo.
 
 ### Índice
