@@ -1,5 +1,22 @@
 ### Projeto Dashboard para acompanhamento de empresa de marketplace de locação de imóveis para curta e longa temporada:
 
+### Resumo
+
+Análise dos dados do Airbnb de Nova Yorque com foco em avaliação da disponibilidade de imóveis na plataforma. Estima-se que a empresa deixou de arrecadar entre 8,42 e 273,61 milhões de dólares de receita bruta devido à indisponibilidade de imóveis, o que significa um aumento potencial na receita entre 31 e 39% caso os imóveis sejam disponibilizados novamente.
+
+[Relatório - Análise da disponibilidade de imóveis e potencial de receita](https://app.powerbi.com/view?r=eyJrIjoiNjYxMTE4ZDctOTNmZC00MWU0LWI0MjItZjVlNGE5ZjIzMzM5IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSectiond2b2e8909b25e91c4067).
+
+Leia mais sobre o projeto abaixo.
+
+### Índice
+1. [Problema de negócio]([#-problema-de-negócio])
+2. [Premissas assumidas para a análise]([#-premissas-assumidas-para-a-análise])
+3. [Estratégias de solução](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#3-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
+4. [O produto final do projeto]([#-o-produto-final-do-projeto])
+5. [Principais insights de dados]([#-principais-insights-de-dados])
+6. [Conclusão](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#6-conclus%C3%A3o)
+7. [Próximos passos](https://github.com/luisamuzzi/marketplace_imoveis_dashboards/edit/main/README.md#7-pr%C3%B3ximos-passos)
+
 ### 1. Problema de negócio
 
 Uma empresa de marketplace de locação de imóveis para curta e longa temporada conecta pessoas que possuem imóveis para locação a hospedes.
